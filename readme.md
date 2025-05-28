@@ -49,7 +49,7 @@ If you find our code useful for your research, please cite our paper.
       title={Free Lunch for Flow-based Diffusion Models}, 
       author={Zikai Zhou and Shitong Shao and Dian Xie and Lichen Bai and Zeke Xie},
       year={2025},
-      url={[https://arxiv.org/abs/2411.09502](https://github.com/xie-lab-ml/FreeLunchInference#)}, 
+      url={https://github.com/xie-lab-ml/FreeLunchInference#}, 
 }
 ```
 
