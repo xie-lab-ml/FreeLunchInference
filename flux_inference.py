@@ -60,7 +60,7 @@ if __name__ == '__main__':
       if args.model == 'lite':
             model_id = "Freepik/flux.1-lite-8B-alpha"
       elif args.model == 'dev':
-            model_id = "/data/zhouzikai/huggingface/hub/models--black-forest-labs--FLUX.1-dev/snapshots/0ef5fff789c832c5c7f4e127f94c8b54bbcced44/"
+            model_id = "black-forest-labs/FLUX.1-dev"
 
       if not args.accelerate:  
             # load pipe
